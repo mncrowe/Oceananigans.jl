@@ -48,7 +48,7 @@ OceananigansReactantExt = "Reactant"
 
 [compat]
 Adapt = "4.1.1"
-CUDA = "5"
+CUDA = "5.5"
 Crayons = "4"
 CubedSphere = "0.2, 0.3"
 Dates = "1.9"
